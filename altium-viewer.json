@@ -1,4 +1,6 @@
-  "address": {
-    "monitor-blanking": "https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B80F05A1-854C-4E90-BA5C-2CB8DC030E64&activeView=PCB"
-  },
+  {
+    "address": {
+      "monitor-blanking": "https://personal-viewer.365.altium.com/client/index.html?feature=embed&source=B80F05A1-854C-4E90-BA5C-2CB8DC030E64&activeView=PCB"
+    }
+  }
 
