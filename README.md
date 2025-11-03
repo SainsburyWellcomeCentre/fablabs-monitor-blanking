@@ -18,7 +18,7 @@ In systems neuroscience research, you want to present visual stimuli to animals 
 
 ## 🌐 View Online (eCAD)
 
-View the complete electronic design project online via [Altium 365 Viewer](https://sainsburywellcomecentre.github.io/fablab/):
+View the complete electronic design project online via [Altium 365 Viewer](https://sainsburywellcomecentre.github.io/fablabs-documentation/#fablabs-monitor-blanking).
 
 [![View in Altium 365](https://img.shields.io/badge/View%20in-Altium%20365-blue?logo=altium&logoColor=white)](https://sainsburywellcomecentre.github.io/fablab/)
 
@@ -96,8 +96,14 @@ Under the following terms:
 3. Make your changes
 4. Submit a pull request
 
+## ❤ Contributors
+
+ <a href = "https://github.com/sainsburywellcomecentre/fablabs-monitor-blanking/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=sainsburywellcomecentre/fablabs-monitor-blanking" alt="Contributors"/>
+ </a>
+
 ## 📧 Contact
 
-- **Author**: Yuhsuan Chen
+- **Author**: [@DCisHurt](https://github.com/DCisHurt)
 - **Email**: [yuhsuan.chen@ucl.ac.uk](mailto:yuhsuan.chen@ucl.ac.uk)
-- **Website**: [FabLabs](https://sainsburywellcomecentre.github.io/fablabs-documentation/)
+- **Website**: [FabLabs](https://sainsburywellcomecentre.github.io/fablabs-documentation/#fablabs-monitor-blanking)
